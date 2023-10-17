@@ -1,0 +1,24 @@
+{
+	"diffuse_model" : "toon",
+	"specular_model" : "toon",
+	"fog" : "none",
+	"params" : 	{
+		"specular_size" : 0.193000003695488,
+		"diffuse_size" : 0.704999983310699,
+		"specular_smooth" : 0.109999999403954,
+		"diffuse_smooth" : 0.127000004053116
+	}
+,
+	"textures" : 	{
+
+	}
+,
+	"filename" : "gggg.jitmtl",
+	"color" : [ 0.0, 0.570962011814117, 0.89819198846817, 1.0 ],
+	"mat_emission" : [ 0.0, 0.0, 0.0, 1.0 ],
+	"mat_ambient" : [ 0.0, 0.27325901389122, 0.42986199259758, 1.0 ],
+	"mat_diffuse" : [ 0.0, 0.570962011814117, 0.89819198846817, 1.0 ],
+	"mat_specular" : [ 1.0, 1.0, 1.0, 1.0 ],
+	"shininess" : [ 8.0 ],
+	"fog_params" : [ 0.5, 0.5, 0.5, 0.0, 1.0, 1.0, 100.0 ]
+}

@@ -1,0 +1,21 @@
+{
+	"diffuse_model" : "lambert",
+	"specular_model" : "blinn",
+	"fog" : "none",
+	"params" : 	{
+
+	}
+,
+	"textures" : 	{
+
+	}
+,
+	"filename" : "greeeen.jitmtl",
+	"color" : [ 0.5, 0.5, 0.5, 1.0 ],
+	"mat_emission" : [ 0.0, 0.0, 0.0, 1.0 ],
+	"mat_ambient" : [ 0.389373302459717, 0.686257004737854, 0.210483610630035, 1.0 ],
+	"mat_diffuse" : [ 0.322607100009918, 0.538218975067139, 0.163796529173851, 1.0 ],
+	"mat_specular" : [ 0.5, 0.5, 0.5, 1.0 ],
+	"shininess" : [ 10.0 ],
+	"fog_params" : [ 0.5, 0.5, 0.5, 0.0, 1.0, 1.0, 100.0 ]
+}

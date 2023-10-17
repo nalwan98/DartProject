@@ -1,0 +1,22 @@
+{
+	"diffuse_model" : "oren_nayer",
+	"specular_model" : "cook_torrance",
+	"fog" : "none",
+	"params" : 	{
+		"ONlut" : 0,
+		"roughness" : 0.990000009536743
+	}
+,
+	"textures" : 	{
+
+	}
+,
+	"filename" : "pizza.jitmtl",
+	"color" : [ 0.861645996570587, 0.166537001729012, 0.0, 1.0 ],
+	"mat_emission" : [ 0.0, 0.0, 0.0, 1.0 ],
+	"mat_ambient" : [ 0.549381077289581, 0.808418750762939, 0.560725033283234, 1.0 ],
+	"mat_diffuse" : [ 0.0, 1.0, 0.0, 1.0 ],
+	"mat_specular" : [ 0.573128998279572, 0.573235988616943, 0.573113977909088, 1.0 ],
+	"shininess" : [ 5.550000190734863 ],
+	"fog_params" : [ 0.5, 0.5, 0.5, 0.0, 1.0, 1.0, 100.0 ]
+}
